@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/datasets" />
+      <excludeFolder url="file://$MODULE_DIR$/datasets/images_background" />
+      <excludeFolder url="file://$MODULE_DIR$/images_background" />
+      <excludeFolder url="file://$MODULE_DIR$/outputs" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.6 (dataAnalysis)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="projectConfiguration" value="pytest" />
+    <option name="PROJECT_TEST_RUNNER" value="pytest" />
+  </component>
+</module>
